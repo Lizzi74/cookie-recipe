@@ -1,0 +1,40 @@
+body {
+
+	background-color: #FFE;
+	border-style: solid;
+    border-width: 3px;
+
+
+}
+
+img {
+	
+	border-style: solid;
+    border-width: 3px;
+    margin-left: 30px;
+
+
+}
+
+h1 {
+
+	text-indent: 30px;
+}
+
+h2  {
+    
+    text-indent: 30px;
+
+}
+
+p {
+
+	text-indent: 30px;
+
+}
+
+
+p#p01 {
+	color: #887;
+}
+
